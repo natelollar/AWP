@@ -11,3 +11,8 @@ src/**/*.pdf
 
 # book images
 book/**/*.png
+
+# other
+*.code-workspace
+.env
+scratch.py
